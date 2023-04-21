@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
