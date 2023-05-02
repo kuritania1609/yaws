@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
