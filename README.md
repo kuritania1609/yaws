@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Explorer with LanceDB, Actions and Docs updates (#7487)
