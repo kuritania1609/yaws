@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
