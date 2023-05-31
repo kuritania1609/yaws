@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update H1 in Explorer API docs (#7813)
