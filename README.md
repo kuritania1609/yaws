@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
