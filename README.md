@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Clean up unused imgsz (#7771)
