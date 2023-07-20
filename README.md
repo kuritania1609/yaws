@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+fix for predicting with batch_size > 1 (#47)
