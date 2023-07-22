@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
