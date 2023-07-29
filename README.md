@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Elaborate Train and Predict mode docs arguments (#8137)
