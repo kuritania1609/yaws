@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
