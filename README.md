@@ -1,1 +1,1 @@
-added badges (#45)
+Improve Coral Edge TPU guide (#8160)
