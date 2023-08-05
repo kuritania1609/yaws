@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
