@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
