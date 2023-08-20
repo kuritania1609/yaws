@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Python refactorings and simplifications (#7549)
