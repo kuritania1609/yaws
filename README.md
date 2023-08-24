@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
