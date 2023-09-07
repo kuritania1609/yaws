@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
