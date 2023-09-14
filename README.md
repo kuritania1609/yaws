@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Auto-format by https://ultralytics.com/actions
