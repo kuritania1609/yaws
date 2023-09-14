@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
