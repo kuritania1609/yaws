@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
