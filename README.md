@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
