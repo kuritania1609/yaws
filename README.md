@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Add YOLOv8 LibTorch C++ inference example (#7090)
