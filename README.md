@@ -1,1 +1,1 @@
-add logs
+Add TensorBoard Docs integrations page (#7248)
