@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
