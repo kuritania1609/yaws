@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
