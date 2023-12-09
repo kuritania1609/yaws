@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update fraction arg to employ a random selection (#8234)
