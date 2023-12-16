@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add bgr hyperparameter (#9139)
