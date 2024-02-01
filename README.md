@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Rename model_id to model.id (#8447)
