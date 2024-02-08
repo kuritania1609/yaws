@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add C++ Classify inference example (#6868)
