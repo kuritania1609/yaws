@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add dota8.yaml and O tests (#7394)
