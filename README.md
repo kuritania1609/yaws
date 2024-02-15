@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
