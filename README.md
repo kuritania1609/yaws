@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
