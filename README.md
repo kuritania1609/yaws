@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+fix for KeyError: 'epoch' (#48)
