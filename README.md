@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
