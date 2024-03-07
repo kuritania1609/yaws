@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+* fix for predicting with batch_size > 1
