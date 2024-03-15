@@ -1,1 +1,1 @@
-fix resume training
+Improve Docs arguments tables (#8415)
