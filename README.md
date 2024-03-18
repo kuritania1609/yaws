@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update Discord and Contributing Guide URLs (#9270)
