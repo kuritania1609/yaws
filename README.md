@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add C++ Classify inference example (#6868)
