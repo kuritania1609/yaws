@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Fix bbox2segment converter (#7814)
