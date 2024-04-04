@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Updating a typo on paddlepaddle.md (#9108)
