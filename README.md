@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
