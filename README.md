@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
