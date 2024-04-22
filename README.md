@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
