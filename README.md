@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
