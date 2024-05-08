@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
