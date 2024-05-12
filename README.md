@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Update docs building code (#7601)
