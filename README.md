@@ -1,1 +1,1 @@
-fix predict with class filter
+fix for predicting with batch_size > 1 (#47)
