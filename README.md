@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Merge pull request #22 from SkalskiP/patch-1
