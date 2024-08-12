@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
