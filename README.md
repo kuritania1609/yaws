@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add visuals in guides/distance-calculation.md (#7876)
