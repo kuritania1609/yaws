@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
