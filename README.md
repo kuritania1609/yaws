@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
