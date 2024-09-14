@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
