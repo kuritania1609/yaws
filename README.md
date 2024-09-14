@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+docs: update view-results-in-terminal.md (#66)
