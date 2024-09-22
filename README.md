@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+docs: update view-results-in-terminal.md (#66)
