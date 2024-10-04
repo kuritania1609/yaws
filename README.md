@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
