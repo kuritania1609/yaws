@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Expand Model method type hinting (#8279)
