@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
