@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
