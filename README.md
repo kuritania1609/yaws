@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Improve Docs arguments tables (#8415)
