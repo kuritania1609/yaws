@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add Amazon Sagemaker Docs integrations page (#7293)
